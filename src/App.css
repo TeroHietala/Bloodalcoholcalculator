@@ -1,5 +1,21 @@
 .App {
   text-align: center;
+  
+}
+
+
+
+form, h3 {
+  margin-left: 1em;
+}
+
+div {
+  margin-bottom: 0.5em;
+}
+
+label {
+  margin-right: 0.5em;
+  font-weight: bold;
 }
 
 .App-logo {
